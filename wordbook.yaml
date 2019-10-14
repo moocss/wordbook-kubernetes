@@ -6,7 +6,7 @@ info:
   tags:
     - wordway
     - Kubernetes
-  visibility: private
+  visibility: public
   difficulty_level: D1
   repository_type: git
   repository_url: https://github.com/wordway/wordbook-kubernetes
